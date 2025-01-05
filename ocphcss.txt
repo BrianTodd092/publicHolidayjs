@@ -1,0 +1,23 @@
+body {
+overflow-x: hidden;
+}
+
+#x {
+display: none;
+width: 25%; /*px or em != Content*/
+height:25%;
+text-align: center;
+border:  2px solid black ;
+border-radius: 3px;
+
+}
+
+#z {
+display: block;
+
+}
+
+#ns {
+
+  display: block;
+}
